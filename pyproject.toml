@@ -22,6 +22,7 @@ sqlalchemy-bigquery = "^1.14.1"
 google-cloud-bigquery = "^3.30.0"
 # gcsfs = "^2025.3.2"
 gcsfs = "^2024.10.0"
+google-cloud-bigquery-storage = "^2.32.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.5"
